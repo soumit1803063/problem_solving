@@ -11,9 +11,7 @@ This repository contains solutions to various competitive programming problems f
 - **Contests**: Codeforces Rounds, Educational Codeforces Rounds,
 - **Platforms**: CodeChef, HackerEarth, LightOJ, SPOJ, Toph.
 
-## Installation
-
-Clone this repository using:
+## Clone Repository
 
 ```bash
 git clone https://github.com/soumit1803063/problem_solving.git
